@@ -2,4 +2,4 @@
 
 ### Procuro sempre entender o exercício, tento faze-lo e depois o corrijo com o vídeo!
 
-(![image](https://user-images.githubusercontent.com/93723573/232266193-9868635d-4303-42ee-bfde-174bfc0a7e11.png))
+![image](https://user-images.githubusercontent.com/93723573/232266193-9868635d-4303-42ee-bfde-174bfc0a7e11.png)
